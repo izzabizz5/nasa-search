@@ -29,25 +29,25 @@ export class NasaImage extends LitElement {
       width: 240px;
     }  
     .image {
-    display: inline-block;
-    border-color: black;  
+      display: inline-block;
+      border-color: black;  
     }
     .image:hover {
-    opacity: 50%
+      opacity: 50%
     }
     .image div {
-    width: 240px;
-    height: 240px;
-    font-size: 16px;
-    font-weight: bold;
-    text-align: center;
+      width: 240px;
+      height: 240px;
+      font-size: 16px;
+      font-weight: bold;
+      text-align: center;
     }
 
     .image img {
-    display: block;
-    width: 200px;
-    height: 200px;
-    margin: auto;
+      display: block;
+      width: 200px;
+      height: 200px;
+      margin: auto;
     }
     `];
   }
