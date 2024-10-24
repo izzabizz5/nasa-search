@@ -9,7 +9,7 @@ import "./nasa-image.js";
 
 /**
  * `nasa-search`
- * 
+ * comment
  * @demo index.html
  * @element nasa-search
  */
